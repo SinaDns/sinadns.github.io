@@ -1,189 +1,177 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Sina Daneshgar
+  label: Computer Science Student
+  email: daneshgarsina@gmail.com
+  phone: +98 930 646 0485
+  location: Tehran, Iran
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: BSc. Computer Science student at Sharif University of Technology, working on NLP, bioinformatics, large language models, and multimodal learning.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: SinaDns
     - network: LinkedIn
-      username: example
+      username: SinaDns
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    city: Tehran
+    countryCode: IR
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Sharif University of Technology
+        location: Tehran, Iran
+        area: Computer Science
+        studyType: BSc.
+        start_date: 2022
+        end_date: Present
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Qatar Computing Research Institute (LLM Lab)
+        position: Research Assistant — Antimicrobial Resistance Prediction
+        location: Remote
+        start_date: 2025-04-01
+        end_date: Present
+        summary: "Supervisor: Dr. Ehsaneddin Asgari."
         highlights:
-          - Relativity
-          - Description 2.
+          - Leveraging large language and multimodal models to devise a new benchmarking framework
+          - Engineering a novel AMR-prediction architecture
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Robust and Interpretable Machine Learning Lab (RIML)
+        position: Research Assistant — Geometric Vector Perceptron Protein Folding Model
+        location: Sharif University of Technology
+        start_date: 2025-04-01
+        end_date: Present
+        summary: "Supervisor: Dr. Mohammadhossein Rohban."
         highlights:
-          - Description 1.
-          - Description 2.
+          - Investigated and developed GVP-based neural architectures for protein structure prediction
+          - Integrated geometric learning with diffusion and autoencoders for improved fold and sequence generation
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Independent Research
+        position: LLM-based Clinical Data Deidentification
+        location: Remote
+        start_date: 2026-04-01
+        end_date: Present
+        summary: "Supervisor: Dr. Bardia Khosravi."
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Building an efficient and deployable system for deidentifying sensitive data using transformer-based models and reinforcement learning
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: Independent Research
+        position: Alzheimer's Disease Amyloid Imaging
+        location: Remote
+        start_date: 2026-04-01
+        end_date: Present
+        summary: "Supervisor: Dr. Mahsa Mayeli."
+        highlights:
+          - Developing preprocessing pipelines and predictive ML models on multi-source, multimodal clinical datasets to identify disease biomarkers and improve early diagnosis
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: MCI NEXT
+        position: Audio AI Engineer
+        location: Tehran, Iran
+        start_date: 2025-01-01
+        end_date: 2025-12-31
+        summary: "Team Lead: Dr. Mohammad Khalooei."
+        highlights:
+          - Reduced errors and latency of ASR and TTS models
+          - Adapted Large-Audio Language Models with LoRA to efficiently support Persian, with planned support for Kurdish, Turkish, and other dialects
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+    Teaching:
+      - institution: Sharif University of Technology
+        area: Medical Image Analysis and Processing
+        studyType: Teaching Assistant
+        start_date: 2026
+        end_date: 2026
+        courses: "Instructor: Dr. Emad Fatemizadeh"
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      - institution: Sharif University of Technology
+        area: Machine Learning Operations (MLOps)
+        studyType: Teaching Assistant
+        start_date: 2025
+        end_date: 2025
+        courses: "Instructor: Dr. Fatemeh Seyyedsalehi"
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - institution: Sharif University of Technology
+        area: Machine Learning
+        studyType: Teaching Assistant
+        start_date: 2025
+        end_date: 2025
+        courses: "Instructor: Dr. Ali Sharifi-Zarchi"
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - institution: Sharif University of Technology
+        area: Introduction to Bioinformatics
+        studyType: Teaching Assistant
+        start_date: 2025
+        end_date: 2025
+        courses: "Instructor: Dr. Ali Sharifi-Zarchi"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - institution: Sharif University of Technology
+        area: Advanced Programming (Java)
+        studyType: Teaching Assistant
+        start_date: 2024
+        end_date: 2024
+        courses: "Instructor: Dr. Hossein Boomari"
 
-      - name: English
-        summary: "Fluent"
+      - institution: Sharif University of Technology
+        area: Basic Programming (Python)
+        studyType: Teaching Assistant
+        start_date: 2023
+        end_date: 2023
+        courses: "Instructor: Dr. Arman Malekzadeh"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - institution: Sharif University of Technology
+        area: Basic Programming (Java)
+        studyType: Teaching Assistant
+        start_date: 2023
+        end_date: 2023
+        courses: "Instructor: Alireza Tofighi Mohammadi"
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: Persian Public Figures — Multimodal RAG
+        summary: Built a multimodal RAG system for Iranian public figures, combining text and image retrieval. Created a normalized knowledge base, indexed data using mE5 and CLIP embeddings, and evaluated performance on MCQ and open-ended tasks with an LLM-as-judge.
+
+      - name: Radiology Vision-Language Models
+        summary: Developed a research system for chest X-ray vision-language modeling, including zero-shot pathology classification, report generation, uncertainty estimation, and cross-dataset robustness using CheXzero/R2Gen architectures.
+
+    Skills:
+      - name: Programming Languages
+        keywords: "Python, R, SQL, Java, Go"
+
+      - name: Frameworks & Libraries
+        keywords: "PyTorch, Transformers, TensorFlow, Scikit-Learn, Redis"
+
+    Languages:
+      - name: Persian
+        summary: "Native"
+
+      - name: English
+        summary: "Advanced"
+
+      - name: Arabic
+        summary: "Basic"
+
+    Interests:
+      - name: Natural Language Processing
+      - name: Computational Linguistics
+      - name: Large Language Models
+      - name: Bioinformatics
+      - name: Multimodal Learning
+      - name: AI in Healthcare
+
+    Awards:
+      - title: Ranked 19th in the National Universities Entrance Exam (Konkur)
+        date: 2022
+        awarder: National Organization for Educational Testing, Iran
+        summary: Ranked 19th among more than 120,000 participants with a diploma in the Mathematics and Physics major.
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Dr. Ehsaneddin Asgari
+        reference: "Research Scientist at Qatar Computing Research Institute, Sharif University of Technology, Tehran, Iran. Email: asgari@berkeley.edu"
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Prof. Mohammadhossein Rohban
+        reference: "Assistant Professor, Computer Engineering Department, Sharif University of Technology, Tehran, Iran. Email: rohban@sharif.edu"
+
+      - name: Prof. Ali Sharifi-Zarchi
+        reference: "Assistant Professor, Computer Engineering Department, Sharif University of Technology, Tehran, Iran. Email: asharifiz@gmail.com"
+
+      - name: Dr. Bardia Khosravi
+        reference: "Radiology Resident, Yale University. Email: bardiakhosravi95@gmail.com"

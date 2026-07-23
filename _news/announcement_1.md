@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-04-01 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Started working on **LLM-based clinical data deidentification** with Dr. Bardia Khosravi, and **Alzheimer's disease amyloid imaging** with Dr. Mahsa Mayeli.

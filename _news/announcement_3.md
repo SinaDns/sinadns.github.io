@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Ranked **19th** in Iran's National Universities Entrance Exam (Konkur) among more than 120,000 participants, Mathematics and Physics major. :sparkles:
+Ranked **19th** in Iran's National Universities Entrance Exam (Konkoor) among more than 120,000 participants, Mathematics and Physics major.

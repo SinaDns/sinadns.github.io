@@ -28,7 +28,7 @@ latest_posts:
 
 I'm a BSc. Computer Science student at Sharif University of Technology, interested in natural language processing, computational linguistics, large language models, bioinformatics, multimodal learning, and AI in healthcare.
 
-I currently work on antimicrobial resistance prediction with [Dr. Ehsaneddin Asgari](https://www.qcri.org/) at the Qatar Computing Research Institute (LLM Lab), and on geometric vector perceptron-based protein folding models with [Dr. Mohammadhossein Rohban](https://sharif.edu/) at the Robust and Interpretable Machine Learning Lab (RIML). I'm also working on LLM-based clinical data deidentification with Dr. Bardia Khosravi, and on Alzheimer's disease amyloid imaging with Dr. Mahsa Mayeli.
+I currently work on antimicrobial resistance prediction with [Dr. Ehsaneddin Asgari](https://scholar.google.com/citations?user=lIVvIFsAAAAJ&hl=en) at the Qatar Computing Research Institute (LLM Lab), and on geometric vector perceptron-based protein folding models with [Dr. Mohammadhossein Rohban](https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ) at the Robust and Interpretable Machine Learning Lab (RIML). I'm also working on LLM-based clinical data deidentification with [Dr. Bardia Khosravi](https://brdkhsrv.com/), and on Alzheimer's disease amyloid imaging with [Dr. Mahsa Mayeli](https://scholar.google.com/citations?user=HmSnBQEAAAAJ&hl=en).
 
 Previously, I worked as an Audio AI Engineer at MCI NEXT, reducing ASR/TTS latency and adapting large audio-language models with LoRA for Persian. I've also served as a teaching assistant for courses including Machine Learning, MLOps, Introduction to Bioinformatics, and Medical Image Analysis at Sharif University.
 

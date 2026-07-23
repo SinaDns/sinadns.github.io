@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: BSc. Computer Science, <a href='https://www.sharif.edu/'>Sharif University of Technology</a>
+subtitle: BSc. Computer Science, <a href='https://en.sharif.ir/'>Sharif University of Technology</a>
 
 profile:
   align: right
